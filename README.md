@@ -41,3 +41,7 @@ Single Image Intrinsic Decomposition with Discriminative Feature Encoding
 │     	└───IIW                           # IIW数据集
 │     	└───MPI                           # MPI数据集
 ```
+
+## Data Downloads
+link: https://pan.baidu.com/s/19g_DT1QEE0b0grE2VnnKMA 
+extraction code: 3rqc
